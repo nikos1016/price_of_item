@@ -6,7 +6,7 @@ __author__ = 'nikosD'
 
 
 class Database(object):
-    URI = os.environ.get("MONGOLAB_URI") #universal resource identifier
+    URI = os.environ.get("MONGODB_URI") #universal resource identifier
     DATABASE = None
 
     @staticmethod
