@@ -6,6 +6,9 @@ learned from a udemy course.
 
 Technology stack: MongoDB, Python (Flask & Jinja2), HTML/CSS/Bootstrap, Mailgun.
 
+
+
+
 ![screenshots](/readme-files/1.png)
 
 ![screenshots](/readme-files/2.png)
