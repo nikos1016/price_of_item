@@ -6,7 +6,7 @@ Pricing service which allows for setting up alerts for prices in online stores a
 Technology stack: MongoDB, Python (Flask & Jinja2), HTML/CSS/Bootstrap, Mailgun.
 
 
-
+![screenshots](/readme-files/6.png)
 
 ![screenshots](/readme-files/1.png)
 
@@ -17,8 +17,6 @@ Technology stack: MongoDB, Python (Flask & Jinja2), HTML/CSS/Bootstrap, Mailgun.
 ![screenshots](/readme-files/4.png)
 
 ![screenshots](/readme-files/5.png)
-
-![screenshots](/readme-files/6.png)
 
 ![screenshots](/readme-files/7.png)
 
